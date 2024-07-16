@@ -1,50 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\bugsbunny\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:bugsbunny\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\bugsbunny\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:bugsbunny\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\bugsbunny\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:bugsbunny\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|c:\\users\\ferlu\\downloads\\bugsbunny\\bugsbunny\\videos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:bugsbunny\\videos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Ventas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:BugsBunny\\Ventas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Registrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:BugsBunny\\Registrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Estadisticas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:BugsBunny\\Estadisticas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Crianza.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:BugsBunny\\Crianza.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:BugsBunny\\Contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:BugsBunny\\Carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Bitacora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\BugsBunny\\Bitacora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:BugsBunny\\Bitacora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|c:\\users\\user\\desktop\\conejo\\bugsbunny\\bugsbunny\\bitacora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:bugsbunny\\bitacora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|c:\\users\\user\\desktop\\conejo\\bugsbunny\\bugsbunny\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7FAF596F-9682-47E4-B132-B2A1B6A09CFE}|BugsBunny\\BugsBunny.csproj|solutionrelative:bugsbunny\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,143 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Default.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Default.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Default.aspx",
-              "RelativeToolTip": "BugsBunny\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:50:17.904Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "BugsBunny\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "BugsBunny\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAPAAAA",
+              "Title": "Bitacora.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\BugsBunny\\Bitacora.aspx.cs",
+              "RelativeDocumentMoniker": "BugsBunny\\Bitacora.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\BugsBunny\\Bitacora.aspx.cs",
+              "RelativeToolTip": "BugsBunny\\Bitacora.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T20:36:03.899Z",
+              "WhenOpened": "2024-07-16T02:40:34.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Bitacora.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Bitacora.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Bitacora.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Bitacora.aspx",
-              "RelativeToolTip": "BugsBunny\\Bitacora.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Contacto.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Contacto.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Contacto.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Contacto.aspx",
-              "RelativeToolTip": "BugsBunny\\Contacto.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Videos.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Videos.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Videos.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Videos.aspx",
-              "RelativeToolTip": "BugsBunny\\Videos.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.594Z",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\BugsBunny\\Web.config",
+              "RelativeDocumentMoniker": "BugsBunny\\Web.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\BugsBunny\\Web.config",
+              "RelativeToolTip": "BugsBunny\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-16T02:30:30.968Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Estadisticas.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Estadisticas.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Estadisticas.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Estadisticas.aspx",
-              "RelativeToolTip": "BugsBunny\\Estadisticas.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Registrar.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Registrar.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Registrar.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Registrar.aspx",
-              "RelativeToolTip": "BugsBunny\\Registrar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ventas.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Ventas.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Ventas.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Ventas.aspx",
-              "RelativeToolTip": "BugsBunny\\Ventas.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Crianza.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Crianza.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Crianza.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Crianza.aspx",
-              "RelativeToolTip": "BugsBunny\\Crianza.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.609Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Site.Master",
-              "RelativeDocumentMoniker": "BugsBunny\\Site.Master",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Site.Master",
-              "RelativeToolTip": "BugsBunny\\Site.Master",
+              "Title": "Bitacora.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\BugsBunny\\Bitacora.aspx",
+              "RelativeDocumentMoniker": "BugsBunny\\Bitacora.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Conejo\\bugsbunny\\BugsBunny\\Bitacora.aspx",
+              "RelativeToolTip": "BugsBunny\\Bitacora.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.609Z",
+              "WhenOpened": "2024-07-16T02:24:35.438Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Carrito.aspx",
-              "DocumentMoniker": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Carrito.aspx",
-              "RelativeDocumentMoniker": "BugsBunny\\Carrito.aspx",
-              "ToolTip": "C:\\Users\\Ferlu\\Downloads\\bugsbunny\\BugsBunny\\Carrito.aspx",
-              "RelativeToolTip": "BugsBunny\\Carrito.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-15T20:31:39.609Z"
             }
           ]
         }

@@ -104,6 +104,7 @@
   <ItemGroup>
     <Content Include="Bitacora.aspx" />
     <Content Include="Carrito.aspx" />
+    <Content Include="conejo.ico" />
     <Content Include="Contacto.aspx" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\style.css" />
