@@ -9,7 +9,7 @@
 							<div class="intro-excerpt">
 								<h1>Bugs Bunny <span clsas="d-block">tu mejor opción</span></h1>
 								<p class="mb-4">Elije el conejo que prefieras, tu cría, vende, comes :(.</p>
-								<p><a "href=""" class="btn btn-secondary me-2">Comprar ahora</a><a href="#" class="btn btn-white-outline">Explorar</a></p>
+								<p><a href="" class="btn btn-secondary me-2">Comprar ahora</a><a href="#" class="btn btn-white-outline">Explorar</a></p>
 							</div>
 						</div>
 						<div class="col-lg-7">
@@ -31,13 +31,13 @@
 					<div class="col-md-12 col-lg-3 mb-5 mb-lg-0">
 						<h2 class="mb-4 section-title">Alimentados con los mejores productos</h2>
 						<p class="mb-4">Para alimentar a nuestros conejos, utilizamos los mejores alimentos para garantizar su salud y calidad </p>
-						<p><a href="shop.html" class="btn">Explorar</a></p>
+						<p><a href="default.aspx" class="btn">Explorar</a></p>
 					</div> 
 					<!-- End Column 1 -->
 
 					<!-- Start Column 2 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-						<a class="product-item" href="cart.html">
+						<a class="product-item" href="default.aspx">
 							<img src="https://th.bing.com/th/id/OIP.4R_W063VyPqaoXa2xamOygHaE7?rs=1&pid=ImgDetMain" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Conejo Borgoña</h3>
 							<strong class="product-price">$50.00</strong>
@@ -51,7 +51,7 @@
 
 					<!-- Start Column 3 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-						<a class="product-item" href="cart.html">
+						<a class="product-item" href="default.aspx">
 							<img src="https://gojackrabbitgo.com/wp-content/uploads/2022/02/angora-rabbit.jpg" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Angora Inglés</h3>
 							<strong class="product-price">$78.00</strong>
@@ -65,7 +65,7 @@
 
 					<!-- Start Column 4 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-						<a class="product-item" href="cart.html">
+						<a class="product-item" href="default.aspx">
 							<img src="https://th.bing.com/th/id/R.1f81c76d8eb22e694c55d0601af68723?rik=4qPmdIHNWfCt3A&riu=http%3a%2f%2fconejos.mascotahogar.com%2fImagenes%2fperfil-del-conejo-rex.jpg&ehk=hgCdOrF7vqmgxN0GAOOPyrS6LlQ5ANgGI9ft02V3bIo%3d&risl=&pid=ImgRaw&r=0" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Rex</h3>
 							<strong class="product-price">$43.00</strong>
