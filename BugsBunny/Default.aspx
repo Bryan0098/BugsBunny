@@ -38,7 +38,7 @@
 					<!-- Start Column 2 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
 						<a class="product-item" href="default.aspx">
-							<img src="https://th.bing.com/th/id/OIP.4R_W063VyPqaoXa2xamOygHaE7?rs=1&pid=ImgDetMain" class="img-fluid product-thumbnail">
+							<img src="images/conejo4.jpeg" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Conejo Borgoña</h3>
 							<strong class="product-price">$50.00</strong>
 
@@ -52,7 +52,7 @@
 					<!-- Start Column 3 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
 						<a class="product-item" href="default.aspx">
-							<img src="https://gojackrabbitgo.com/wp-content/uploads/2022/02/angora-rabbit.jpg" class="img-fluid product-thumbnail">
+							<img src="images/conejo3.jpg" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Angora Inglés</h3>
 							<strong class="product-price">$78.00</strong>
 
@@ -66,7 +66,7 @@
 					<!-- Start Column 4 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
 						<a class="product-item" href="default.aspx">
-							<img src="https://th.bing.com/th/id/R.1f81c76d8eb22e694c55d0601af68723?rik=4qPmdIHNWfCt3A&riu=http%3a%2f%2fconejos.mascotahogar.com%2fImagenes%2fperfil-del-conejo-rex.jpg&ehk=hgCdOrF7vqmgxN0GAOOPyrS6LlQ5ANgGI9ft02V3bIo%3d&risl=&pid=ImgRaw&r=0" class="img-fluid product-thumbnail">
+							<img src="images/conejo2.jpeg" class="img-fluid product-thumbnail">
 							<h3 class="product-title">Rex</h3>
 							<strong class="product-price">$43.00</strong>
 
@@ -149,7 +149,7 @@
 
 					<div class="col-lg-5">
 						<div class="img-wrap">
-							<img src="https://4.bp.blogspot.com/-mVs4lDjvi50/Uo_OhkYyt9I/AAAAAAAA0xY/fe3eIT0fJcQ/s1600/animales-conejos-amor-de-conejos.jpg" alt="Image" class="img-fluid">
+							<img src="images/conejo5.jpg" alt="Image" class="img-fluid">
 						</div>
 					</div>
 
@@ -164,9 +164,9 @@
 				<div class="row justify-content-between">
 					<div class="col-lg-7 mb-5 mb-lg-0">
 						<div class="imgs-grid">
-							<div class="grid grid-1"><img src="https://www.gob.mx/cms/uploads/article/main_image/45536/IMG_8324.JPG" alt="Untree.co"></div>
-							<div class="grid grid-2"><img src="https://th.bing.com/th/id/R.83e09947b18a769c8d8d8dcf1bfbf4a4?rik=4dqWmXrhm0FHpg&riu=http%3a%2f%2f1.bp.blogspot.com%2f_nh2MnSj3OqM%2fS2ZusFhgYUI%2fAAAAAAAAAAU%2fRyzpygM_3Lk%2fs320%2fencuentran-334-conejos-en-el-jardin-de-una-casa-300x350.jpg&ehk=VXA4UovJBxSJFQaoIsZ%2fAyhdL3XE%2bpgodXCjdR95B9w%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="Untree.co"></div>
-							<div class="grid grid-3"><img src="https://th.bing.com/th/id/OIP.pNwrWM9uWzgtoduhOzd5ZQHaHa?rs=1&pid=ImgDetMain" alt="Untree.co"></div>
+							<div class="grid grid-1"><img src="images/conejo6.jpeg" alt="Untree.co"></div>
+							<div class="grid grid-2"><img src="images/conejo7.jpeg" alt="Untree.co"></div>
+							<div class="grid grid-3"><img src="images/conejo8.jpeg" alt="Untree.co"></div>
 						</div>
 					</div>
 					<div class="col-lg-5 ps-lg-5">
@@ -197,7 +197,7 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
 						<div class="product-item-sm d-flex">
 							<div class="thumbnail">
-								<img src="https://th.bing.com/th/id/OIP.7TQzDmb73md1Ka5EXMgWLwHaEO?rs=1&pid=ImgDetMain" alt="Image" class="img-fluid">
+								<img src="images/conejo9.jpeg" alt="Image" class="img-fluid">
 							</div>
 							<div class="pt-3">
 								<h3>HAVANA</h3>
@@ -209,7 +209,7 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
 						<div class="product-item-sm d-flex">
 							<div class="thumbnail">
-								<img src="https://th.bing.com/th/id/R.029a15cf90528f74e45c64161e3be0bf?rik=ew1w4Me%2bGqqwrQ&pid=ImgRaw&r=0" alt="Image" class="img-fluid">
+								<img src="images/conejo10.jpeg" alt="Image" class="img-fluid">
 							</div>
 							<div class="pt-3">
 								<h3>California</h3>
@@ -221,7 +221,7 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
 						<div class="product-item-sm d-flex">
 							<div class="thumbnail">
-								<img src="https://th.bing.com/th/id/R.f4777b58e694e76fa57cf0df916f9843?rik=8jM1wZxgY%2f5D%2bw&riu=http%3a%2f%2fconejos.mascotahogar.com%2fImagenes%2fraza-de-conejos-mariposa-inglesa.jpg&ehk=NkbVO32jswSyRNzTi1DYUtwJwwx3Vx7E3BM002OJg2c%3d&risl=&pid=ImgRaw&r=0" alt="Image" class="img-fluid">
+								<img src="images/conejo11.jpeg" alt="Image" class="img-fluid">
 							</div>
 							<div class="pt-3">
 								<h3>Mariposa</h3>
