@@ -1,258 +1,109 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ventas.aspx.cs" Inherits="BugsBunny.Ventas" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-
-
-    		<!-- Start Hero Section -->
-			<div class="hero">
-				<div class="container">
-					<div class="row justify-content-between">
-						<div class="col-lg-5">
-							<div class="intro-excerpt">
-								<h1>About Us</h1>
-								<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
-								<p><a href="" class="btn btn-secondary me-2">Shop Now</a><a href="#" class="btn btn-white-outline">Explore</a></p>
-							</div>
-						</div>
-						<div class="col-lg-7">
-							<div class="hero-img-wrap">
-								<img src="Content/images/conejo_port.png" class="img-fluid">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		<!-- End Hero Section -->
-
-		
-
-		<!-- Start Why Choose Us Section -->
-		<div class="why-choose-section">
-			<div class="container">
-				<div class="row justify-content-between align-items-center">
-					<div class="col-lg-6">
-						<h2 class="section-title">Why Choose Us</h2>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
-
-						<div class="row my-5">
-							<div class="col-6 col-md-6">
-								<div class="feature">
-									<div class="icon">
-										<img src="Content/images/truck.svg" alt="Image" class="imf-fluid">
-									</div>
-									<h3>Fast &amp; Free Shipping</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-								</div>
-							</div>
-
-							<div class="col-6 col-md-6">
-								<div class="feature">
-									<div class="icon">
-										<img src="Content/images/bag.svg" alt="Image" class="imf-fluid">
-									</div>
-									<h3>Easy to Shop</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-								</div>
-							</div>
-
-							<div class="col-6 col-md-6">
-								<div class="feature">
-									<div class="icon">
-										<img src="Content/images/support.svg" alt="Image" class="imf-fluid">
-									</div>
-									<h3>24/7 Support</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-								</div>
-							</div>
-
-							<div class="col-6 col-md-6">
-								<div class="feature">
-									<div class="icon">
-										<img src="Content/images/return.svg" alt="Image" class="imf-fluid">
-									</div>
-									<h3>Hassle Free Returns</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-								</div>
-							</div>
-
-						</div>
-					</div>
-
-					<div class="col-lg-5">
-						<div class="img-wrap">
-							<img src="Content/images/why-choose-us-img.jpg" alt="Image" class="img-fluid">
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-		<!-- End Why Choose Us Section -->
-
-		<!-- Start Team Section -->
-		<div class="untree_co-section">
-			<div class="container">
-
-				<div class="row mb-5">
-					<div class="col-lg-5 mx-auto text-center">
-						<h2 class="section-title">Our Team</h2>
-					</div>
-				</div>
-
-				<div class="row">
-
-					<!-- Start Column 1 -->
-					<div class="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-						<img src="Content/images/person_1.jpg" class="img-fluid mb-5">
-						<h3 clas><a href="#"><span class="">Lawson</span> Arnold</a></h3>
-            <span class="d-block position mb-4">CEO, Founder, Atty.</span>
-            <p>Separated they live in.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p class="mb-0"><a href="#" class="more dark">Learn More <span class="icon-arrow_forward"></span></a></p>
-					</div> 
-					<!-- End Column 1 -->
-
-					<!-- Start Column 2 -->
-					<div class="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-						<img src="Content/images/person_2.jpg" class="img-fluid mb-5">
-
-						<h3 clas><a href="#"><span class="">Jeremy</span> Walker</a></h3>
-            <span class="d-block position mb-4">CEO, Founder, Atty.</span>
-            <p>Separated they live in.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p class="mb-0"><a href="#" class="more dark">Learn More <span class="icon-arrow_forward"></span></a></p>
-
-					</div> 
-					<!-- End Column 2 -->
-
-					<!-- Start Column 3 -->
-					<div class="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-						<img src="Content/images/person_3.jpg" class="img-fluid mb-5">
-						<h3 clas><a href="#"><span class="">Patrik</span> White</a></h3>
-            <span class="d-block position mb-4">CEO, Founder, Atty.</span>
-            <p>Separated they live in.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p class="mb-0"><a href="#" class="more dark">Learn More <span class="icon-arrow_forward"></span></a></p>
-					</div> 
-					<!-- End Column 3 -->
-
-					<!-- Start Column 4 -->
-					<div class="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-						<img src="Content/images/person_4.jpg" class="img-fluid mb-5">
-
-						<h3 clas><a href="#"><span class="">Kathryn</span> Ryan</a></h3>
-            <span class="d-block position mb-4">CEO, Founder, Atty.</span>
-            <p>Separated they live in.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p class="mb-0"><a href="#" class="more dark">Learn More <span class="icon-arrow_forward"></span></a></p>
-
-          
-					</div> 
-					<!-- End Column 4 -->
-
-					
-
-				</div>
-			</div>
-		</div>
-		<!-- End Team Section -->
-
-		
-
-		<!-- Start Testimonial Slider -->
-		<div class="testimonial-section before-footer-section">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-7 mx-auto text-center">
-						<h2 class="section-title">Testimonials</h2>
-					</div>
-				</div>
-
-				<div class="row justify-content-center">
-					<div class="col-lg-12">
-						<div class="testimonial-slider-wrap text-center">
-
-							<div id="testimonial-nav">
-								<span class="prev" data-controls="prev"><span class="fa fa-chevron-left"></span></span>
-								<span class="next" data-controls="next"><span class="fa fa-chevron-right"></span></span>
-							</div>
-
-							<div class="testimonial-slider">
-								
-								<div class="item">
-									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
-
-											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
-
-												<div class="author-info">
-													<div class="author-pic">
-														<img src="Content/images/person-1.png" alt="Maria Jones" class="img-fluid">
-													</div>
-													<h3 class="font-weight-bold">Maria Jones</h3>
-													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-												</div>
-											</div>
-
-										</div>
-									</div>
-								</div> 
-								<!-- END item -->
-
-								<div class="item">
-									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
-
-											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
-
-												<div class="author-info">
-													<div class="author-pic">
-														<img src="Content/images/person-1.png" alt="Maria Jones" class="img-fluid">
-													</div>
-													<h3 class="font-weight-bold">Maria Jones</h3>
-													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-												</div>
-											</div>
-
-										</div>
-									</div>
-								</div> 
-								<!-- END item -->
-
-								<div class="item">
-									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
-
-											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
-
-												<div class="author-info">
-													<div class="author-pic">
-														<img src="Content/images/person-1.png" alt="Maria Jones" class="img-fluid">
-													</div>
-													<h3 class="font-weight-bold">Maria Jones</h3>
-													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-												</div>
-											</div>
-
-										</div>
-									</div>
-								</div> 
-								<!-- END item -->
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- End Testimonial Slider -->
+    <style>
+        .product-thumbnail {
+            border-radius: 10px;
+        }
+        .product-title {
+            color: rgba(59,93,80,255);
+        }
+        .product-item {
+            text-align: center;
+            color: rgba(59,93,80,255);
+        }
+        .icon-cross img {
+            display: none;
+        }
+    </style>
+    <div class="hero">
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-lg-5">
+                    <div class="intro-excerpt">
+                        <h1>Venta de Conejos</h1>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="untree_co-section product-section before-footer-section">
+        <div class="container">
+            <div class="row">
+                <!-- Start Column 1 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/01.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Grande</h3>
+                        <strong class="product-price">$50.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 1 -->
+                <!-- Start Column 2 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/02.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Mediano</h3>
+                        <strong class="product-price">$45.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 2 -->
+                <!-- Start Column 3 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/03.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Pequeño</h3>
+                        <strong class="product-price">$40.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 3 -->
+                <!-- Start Column 4 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/04.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Bebé</h3>
+                        <strong class="product-price">$35.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 4 -->
+                <!-- Start Column 1 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/05.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Blanco</h3>
+                        <strong class="product-price">$55.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 1 -->
+                <!-- Start Column 2 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/06.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Gris</h3>
+                        <strong class="product-price">$50.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 2 -->
+                <!-- Start Column 3 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/07.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Marrón</h3>
+                        <strong class="product-price">$48.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 3 -->
+                <!-- Start Column 4 -->
+                <div class="col-12 col-md-4 col-lg-3 mb-5">
+                    <a class="product-item" href="#">
+                        <img src="Content/images/conejosventas/01.jpg" class="img-fluid product-thumbnail">
+                        <h3 class="product-title">Conejo Negro</h3>
+                        <strong class="product-price">$52.00</strong>
+                    </a>
+                </div>
+                <!-- End Column 4 -->
+            </div>
+        </div>
+    </div>
 </asp:Content>
