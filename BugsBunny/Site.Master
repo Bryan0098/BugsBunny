@@ -42,9 +42,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarsFurni">
                     <ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="Default.aspx">Inicio</a>
-                        </li>
+                        <li><a class="nav-link" href="Default.aspx">Inicio</a></li>
                         <li><a class="nav-link" href="Crianza.aspx">Crianza</a></li>
                         <li><a class="nav-link" href="Ventas.aspx">Ventas</a></li>
                         <li><a class="nav-link" href="Registrar.aspx">Registros</a></li>
