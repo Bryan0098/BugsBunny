@@ -22,47 +22,48 @@
     <!-- End Hero Section -->
 
     <!-- Start Bitacora Form -->
-    <div class="untree_co-section">
-        <div class="container">
-
-            <div class="block">
-                <div class="row justify-content-center">
-                    <h2>Registro de bitacora</h2>
-                    <br />
-                    <asp:Panel runat="server">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <asp:Label ID="lblNombre" runat="server" Text="Nombre del Conejo" CssClass="text-black"></asp:Label>
-                                    <asp:TextBox ID="nombre" runat="server" CssClass="form-control"></asp:TextBox>
+           <div class="untree_co-section">
+            <div class="container">
+                <div class="block">
+                    <div class="row justify-content-center">
+                        <h2>Registro de bitacora</h2>
+                        <br />
+                        <asp:Panel runat="server">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <asp:Label ID="lblNombre" runat="server" Text="Nombre del Conejo" CssClass="text-black"></asp:Label>
+                                        <asp:TextBox ID="nombre" runat="server" CssClass="form-control"></asp:TextBox>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <asp:Label ID="lblFechaNacimiento" runat="server" Text="Fecha de Nacimiento" CssClass="text-black"></asp:Label>
+                                        <asp:TextBox ID="fecha_nacimiento" runat="server" CssClass="form-control" TextMode="Date"></asp:TextBox>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <asp:Label ID="lblFechaNacimiento" runat="server" Text="Fecha de Nacimiento" CssClass="text-black"></asp:Label>
-                                    <asp:TextBox ID="fecha_nacimiento" runat="server" CssClass="form-control" TextMode="Date"></asp:TextBox>
-                                </div>
+                            <div class="form-group">
+                                <asp:Label ID="lblPeso" runat="server" Text="Peso Actual (kg)" CssClass="text-black"></asp:Label>
+                                <asp:TextBox ID="peso" runat="server" CssClass="form-control" TextMode="Number"></asp:TextBox>
                             </div>
-                        </div>
-                        <div class="form-group">
-                            <asp:Label ID="lblPeso" runat="server" Text="Peso Actual (kg)" CssClass="text-black"></asp:Label>
-                            <asp:TextBox ID="peso" runat="server" CssClass="form-control" TextMode="Number"></asp:TextBox>
-                        </div>
-                        <div class="form-group">
-                            <asp:Label ID="lblComportamiento" runat="server" Text="Comportamiento" CssClass="text-black"></asp:Label>
-                            <asp:TextBox ID="comportamiento" runat="server" CssClass="form-control" TextMode="MultiLine" Rows="5"></asp:TextBox>
-                        </div>
-                        <div class="form-group mb-5">
-                            <asp:Label ID="lblObservaciones" runat="server" Text="Observaciones Especiales" CssClass="text-black"></asp:Label>
-                            <asp:TextBox ID="observaciones" runat="server" CssClass="form-control" TextMode="MultiLine" Rows="5"></asp:TextBox>
-                        </div>
+                            <div class="form-group">
+                                <asp:Label ID="lblComportamiento" runat="server" Text="Comportamiento" CssClass="text-black"></asp:Label>
+                                <asp:TextBox ID="comportamiento" runat="server" CssClass="form-control" TextMode="MultiLine" Rows="5"></asp:TextBox>
+                            </div>
+                            <div class="form-group mb-5">
+                                <asp:Label ID="lblObservaciones" runat="server" Text="Observaciones Especiales" CssClass="text-black"></asp:Label>
+                                <asp:TextBox ID="observaciones" runat="server" CssClass="form-control" TextMode="MultiLine" Rows="5"></asp:TextBox>
+                            </div>
 
-                        <asp:Button ID="btnRegistrar" runat="server" Text="Registrar Bitácora" CssClass="btn btn-primary-hover-outline" OnClick="btnRegistrar_Click" />
-                    </asp:Panel>
-
+                            <asp:Button ID="btnRegistrar" runat="server" Text="Registrar Bitácora" CssClass="btn btn-primary-hover-outline" OnClick="btnRegistrar_Click" Width="298px" />
+                        </asp:Panel>
+                    </div>
                 </div>
             </div>
         </div>
+    <div class="container-fluid d-flex align-items-center justify-content-center">
+        <asp:GridView ID="conejostb" runat="server" CssClass="w-50"></asp:GridView>
     </div>
     <!-- End Bitacora Form -->
 </asp:Content>

@@ -1,3 +1,5 @@
+create database bugsbunny;
+use bugsbunny;
 create table bitacoras(
 	id int PRIMARY KEY IDENTITY(1,1),
 	nombre varchar (100),
@@ -20,3 +22,5 @@ BEGIN
 END;
 
 select * from bitacoras
+
+SELECT @@SERVERNAME;
