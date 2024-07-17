@@ -9,7 +9,7 @@
 							<div class="intro-excerpt">
 								<h1>Bugs Bunny <span clsas="d-block">tu mejor opción</span></h1>
 								<p class="mb-4">Elije el conejo que prefieras, tu cría, vende, comes :(.</p>
-								<p><a "href=""" class="btn btn-secondary me-2">Comprar ahora</a><a href="#" class="btn btn-white-outline">Explorar</a></p>
+								<p><a href="" class="btn btn-secondary me-2">Comprar ahora</a><a href="#" class="btn btn-white-outline">Explorar</a></p>
 							</div>
 						</div>
 						<div class="col-lg-7">
@@ -31,14 +31,19 @@
 					<div class="col-md-12 col-lg-3 mb-5 mb-lg-0">
 						<h2 class="mb-4 section-title">Alimentados con los mejores productos</h2>
 						<p class="mb-4">Para alimentar a nuestros conejos, utilizamos los mejores alimentos para garantizar su salud y calidad </p>
-						<p><a href="shop.html" class="btn">Explorar</a></p>
+						<p><a href="default.aspx" class="btn">Explorar</a></p>
 					</div> 
 					<!-- End Column 1 -->
 
 					<!-- Start Column 2 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
+<<<<<<< HEAD
 						<a class="product-item" href="cart.html">
 							<img src="Content/images/conejosventas/01.jpg" class="img-fluid product-thumbnail">
+=======
+						<a class="product-item" href="default.aspx">
+							<img src="images/conejo4.jpeg" class="img-fluid product-thumbnail">
+>>>>>>> b0d565da4267c9e6f3c1eeea9e61438e43dac6e3
 							<h3 class="product-title">Conejo Borgoña</h3>
 							<strong class="product-price">$50.00</strong>
 
@@ -51,8 +56,13 @@
 
 					<!-- Start Column 3 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
+<<<<<<< HEAD
 						<a class="product-item" href="cart.html">
 							<img src="Content/images/conejosventas/02.jpg" class="img-fluid product-thumbnail">
+=======
+						<a class="product-item" href="default.aspx">
+							<img src="images/conejo3.jpg" class="img-fluid product-thumbnail">
+>>>>>>> b0d565da4267c9e6f3c1eeea9e61438e43dac6e3
 							<h3 class="product-title">Angora Inglés</h3>
 							<strong class="product-price">$78.00</strong>
 
@@ -65,8 +75,13 @@
 
 					<!-- Start Column 4 -->
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
+<<<<<<< HEAD
 						<a class="product-item" href="cart.html">
 							<img src="Content/images/conejosventas/03.jpg" class="img-fluid product-thumbnail">
+=======
+						<a class="product-item" href="default.aspx">
+							<img src="images/conejo2.jpeg" class="img-fluid product-thumbnail">
+>>>>>>> b0d565da4267c9e6f3c1eeea9e61438e43dac6e3
 							<h3 class="product-title">Rex</h3>
 							<strong class="product-price">$43.00</strong>
 
@@ -149,7 +164,11 @@
 
 					<div class="col-lg-5">
 						<div class="img-wrap">
+<<<<<<< HEAD
 							<img src="Content/images/conejosventas/04.jpg" alt="Image" class="img-fluid">
+=======
+							<img src="images/conejo5.jpg" alt="Image" class="img-fluid">
+>>>>>>> b0d565da4267c9e6f3c1eeea9e61438e43dac6e3
 						</div>
 					</div>
 
@@ -164,9 +183,15 @@
 				<div class="row justify-content-between">
 					<div class="col-lg-7 mb-5 mb-lg-0">
 						<div class="imgs-grid">
+<<<<<<< HEAD
 							<div class="grid grid-1"><img src="Content/images/conejosventas/05.jpg" alt="Untree.co"></div>
 							<div class="grid grid-2"><img src="Content/images/conejosventas/06.jpg" alt="Untree.co"></div>
 							<div class="grid grid-3"><img src="Content/images/conejosventas/06.jpg" alt="Untree.co"></div>
+=======
+							<div class="grid grid-1"><img src="images/conejo6.jpeg" alt="Untree.co"></div>
+							<div class="grid grid-2"><img src="images/conejo7.jpeg" alt="Untree.co"></div>
+							<div class="grid grid-3"><img src="images/conejo8.jpeg" alt="Untree.co"></div>
+>>>>>>> b0d565da4267c9e6f3c1eeea9e61438e43dac6e3
 						</div>
 					</div>
 					<div class="col-lg-5 ps-lg-5">
@@ -197,7 +222,7 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
 						<div class="product-item-sm d-flex">
 							<div class="thumbnail">
-								<img src="https://th.bing.com/th/id/OIP.7TQzDmb73md1Ka5EXMgWLwHaEO?rs=1&pid=ImgDetMain" alt="Image" class="img-fluid">
+								<img src="images/conejo9.jpeg" alt="Image" class="img-fluid">
 							</div>
 							<div class="pt-3">
 								<h3>HAVANA</h3>
@@ -209,7 +234,7 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
 						<div class="product-item-sm d-flex">
 							<div class="thumbnail">
-								<img src="https://th.bing.com/th/id/R.029a15cf90528f74e45c64161e3be0bf?rik=ew1w4Me%2bGqqwrQ&pid=ImgRaw&r=0" alt="Image" class="img-fluid">
+								<img src="images/conejo10.jpeg" alt="Image" class="img-fluid">
 							</div>
 							<div class="pt-3">
 								<h3>California</h3>
@@ -221,7 +246,7 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
 						<div class="product-item-sm d-flex">
 							<div class="thumbnail">
-								<img src="https://th.bing.com/th/id/R.f4777b58e694e76fa57cf0df916f9843?rik=8jM1wZxgY%2f5D%2bw&riu=http%3a%2f%2fconejos.mascotahogar.com%2fImagenes%2fraza-de-conejos-mariposa-inglesa.jpg&ehk=NkbVO32jswSyRNzTi1DYUtwJwwx3Vx7E3BM002OJg2c%3d&risl=&pid=ImgRaw&r=0" alt="Image" class="img-fluid">
+								<img src="images/conejo11.jpeg" alt="Image" class="img-fluid">
 							</div>
 							<div class="pt-3">
 								<h3>Mariposa</h3>
