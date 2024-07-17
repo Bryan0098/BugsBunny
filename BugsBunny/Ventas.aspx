@@ -1,109 +1,116 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ventas.aspx.cs" Inherits="BugsBunny.Ventas" %>
+﻿<%@ Page Title="Ventas" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ventas.aspx.cs" Inherits="BugsBunny.Ventas" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <style>
-        .product-thumbnail {
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .card img {
+            max-width: 100%;
             border-radius: 10px;
         }
-        .product-title {
-            color: rgba(59,93,80,255);
+        .card h2 {
+            font-size: 1.5rem;
         }
-        .product-item {
-            text-align: center;
-            color: rgba(59,93,80,255);
+        .card p {
+            font-size: 1rem;
         }
-        .icon-cross img {
+        .conejo-detalles {
             display: none;
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            background-color: #f9f9f9;
+        }
+        .conejo-detalles img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        .conejo-detalles h2 {
+            font-size: 2rem;
+        }
+        .conejo-detalles p {
+            font-size: 1.2rem;
         }
     </style>
-    <div class="hero">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-lg-5">
-                    <div class="intro-excerpt">
-                        <h1>Venta de Conejos</h1>
-                    </div>
-                </div>
-                <div class="col-lg-7">
+    <div class="container">
+        <h1>Ventas</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Content/images/conejosventas/01.jpg" alt="Conejo Grande">
+                    <h2>Conejo Grande</h2>
+                    <p>Precio: $50.00</p>
+                    <button class="btn btn-primary" onclick="verDetalles({
+                        id: 1,
+                        nombre: 'Conejo Grande',
+                        imagen: 'Content/images/conejosventas/01.jpg',
+                        descripcion: 'Este conejo es grande y amigable, ideal para familias con niños.',
+                        precio: 50.00,
+                        raza: 'Conejo Grande',
+                        edad: '1 año',
+                        peso: '5 kg',
+                        color: 'Blanco'
+                    })">Ver Detalles</button>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="untree_co-section product-section before-footer-section">
-        <div class="container">
-            <div class="row">
-                <!-- Start Column 1 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/01.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Grande</h3>
-                        <strong class="product-price">$50.00</strong>
-                    </a>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Content/images/conejosventas/02.jpg" alt="Conejo Mediano">
+                    <h2>Conejo Mediano</h2>
+                    <p>Precio: $40.00</p>
+                    <button class="btn btn-primary" onclick="verDetalles({
+                        id: 2,
+                        nombre: 'Conejo Mediano',
+                        imagen: 'Content/images/conejosventas/02.jpg',
+                        descripcion: 'Este conejo es de tamaño mediano y tiene un pelaje suave y esponjoso.',
+                        precio: 40.00,
+                        raza: 'Conejo Mediano',
+                        edad: '8 meses',
+                        peso: '3 kg',
+                        color: 'Marrón'
+                    })">Ver Detalles</button>
                 </div>
-                <!-- End Column 1 -->
-                <!-- Start Column 2 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/02.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Mediano</h3>
-                        <strong class="product-price">$45.00</strong>
-                    </a>
-                </div>
-                <!-- End Column 2 -->
-                <!-- Start Column 3 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/03.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Pequeño</h3>
-                        <strong class="product-price">$40.00</strong>
-                    </a>
-                </div>
-                <!-- End Column 3 -->
-                <!-- Start Column 4 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/04.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Bebé</h3>
-                        <strong class="product-price">$35.00</strong>
-                    </a>
-                </div>
-                <!-- End Column 4 -->
-                <!-- Start Column 1 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/05.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Blanco</h3>
-                        <strong class="product-price">$55.00</strong>
-                    </a>
-                </div>
-                <!-- End Column 1 -->
-                <!-- Start Column 2 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/06.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Gris</h3>
-                        <strong class="product-price">$50.00</strong>
-                    </a>
-                </div>
-                <!-- End Column 2 -->
-                <!-- Start Column 3 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/07.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Marrón</h3>
-                        <strong class="product-price">$48.00</strong>
-                    </a>
-                </div>
-                <!-- End Column 3 -->
-                <!-- Start Column 4 -->
-                <div class="col-12 col-md-4 col-lg-3 mb-5">
-                    <a class="product-item" href="#">
-                        <img src="Content/images/conejosventas/01.jpg" class="img-fluid product-thumbnail">
-                        <h3 class="product-title">Conejo Negro</h3>
-                        <strong class="product-price">$52.00</strong>
-                    </a>
-                </div>
-                <!-- End Column 4 -->
             </div>
+            <!-- Agregar más tarjetas según sea necesario -->
+        </div>
+        <div class="conejo-detalles" id="conejo-detalles">
+            <h2>Detalles del Conejo</h2>
+            <div id="detalles-contenido"></div>
         </div>
     </div>
+    <script>
+        function verDetalles(conejo) {
+            const detallesDiv = document.getElementById('conejo-detalles');
+            const detallesContenido = document.getElementById('detalles-contenido');
+            detallesContenido.innerHTML = `
+                <img src="${conejo.imagen}" alt="${conejo.nombre}">
+                <h2>${conejo.nombre}</h2>
+                <p><strong>Descripción:</strong> ${conejo.descripcion}</p>
+                <p><strong>Precio:</strong> $${conejo.precio.toFixed(2)}</p>
+                <p><strong>Raza:</strong> ${conejo.raza}</p>
+                <p><strong>Edad:</strong> ${conejo.edad}</p>
+                <p><strong>Peso:</strong> ${conejo.peso}</p>
+                <p><strong>Color:</strong> ${conejo.color}</p>
+                <button class="btn btn-success" onclick="reservarConejo(${conejo.id})">Reservar Conejo</button>
+                <button class="btn btn-info" onclick="añadirAlCarrito(${conejo.id})">Añadir al Carrito</button>
+            `;
+            detallesDiv.style.display = 'block';
+            window.scrollTo(0, detallesDiv.offsetTop);
+        }
+
+        function reservarConejo(id) {
+            // Lógica para reservar el conejo
+            alert('Conejo reservado con éxito.');
+        }
+
+        function añadirAlCarrito(id) {
+            // Lógica para añadir el conejo al carrito
+            alert('Conejo añadido al carrito con éxito.');
+        }
+    </script>
 </asp:Content>
